@@ -1,7 +1,7 @@
 .cabeçalho_menu-hamburguer{
-    width: 24px;
-    height: 24px;
-    background-image: url("../img/Menu.svg");
+    width: 10px;
+    height: 10px;
+    background-image: url("../img/menu.svg");
     background-repeat:no-repeat ;
     background-position:center ;
     display: inline-block;
@@ -23,8 +23,12 @@
 
 .container_imagem{
    padding: 1em;
-    width: 60vw;
+    width: 10vw;
   }
+
+.lista-menu{
+  display: none;
+}
   
 .lista-menu_item {
   padding: 1em;
